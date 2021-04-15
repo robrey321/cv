@@ -1,12 +1,11 @@
 # Robert E Reynolds
 
-_Technical Writer with 12+ years of experience_</br>
+_Technical Writer with 12+ years of experience_
+
 [Email](mailto:heyroberto@gmail.com) | [LinkedIn](https://linkedin.com/in/reynoldsrobert) 
 
-# Senior Technical Writer / Content Developer
-
-**Administration Guides | Security Configuration Guides | Release Notes | Online Help**</br>
-**Procedural Documentation | Security Advisories | Internal Style Guides**
+Administration Guides | Security Configuration Guides | Release Notes | Online Help\
+Procedural Documentation | Security Advisories | Internal Style Guides
 
 _Innovative and versatile technical writer with extensive experience on web user interfaces. Recognized for ability to effectively write for diverse audiences. Keen eye for helping customers make informed decisions about software upgrades and performing workarounds. Proven strong organizational and tracking skills to help deliver crisp supporting documentation for the product._
 
@@ -40,15 +39,14 @@ Documentation writer identifying issues, symptoms, customer impact and solutions
 - Ran testing and usability studies on existing documentation to fix ambiguous and incomplete content.
 - Conducted peer reviews of online help documentation for other products.
 
-## Additional Relevant Experience
+### Additional Relevant Experience
 **Content Writer / Editor** @[Sierra On-Line](https://en.wikipedia.org/wiki/Sierra_Entertainment): Redesigned a landscape and gardening website to promote a release of their LandDesigner product. 
 
 **Software Test Engineer / Map Tester** @[Microsoft Corporation](https://www.microsoft.com): 
-Developed and implemented test strategy for browser customizations and group policy deployments.  This included customer hotfixes and new browser version releases. 
-  - **Software Tester:** Internet Explorer Setup, [Internet Explorer Administration Kit (IEAK)](https://en.wikipedia.org/wiki/Internet_Explorer_Administration_Kit), and Group Policy deployments. 
-  - **Trainer:** IDC team in Hyderabad, India on IEAK and Group Policy usage and testing methods.  
-  - **Communication:** Communicated QA concerns regularly with Project Managers, Developers and Product Support Services teams. Investigated, monitored, and verified fixed bugs. 
-
+Developed and implemented test strategy for browser customizations and group policy deployments.  This included customer hotfixes and new browser version releases.
+  - **Software Tester:** Internet Explorer Setup, [Internet Explorer Administration Kit (IEAK)](https://en.wikipedia.org/wiki/Internet_Explorer_Administration_Kit), and Group Policy deployments.\
+  - **Trainer:** IDC team in Hyderabad, India on IEAK and Group Policy usage and testing methods.\
+  - **Communication:** Communicated QA concerns regularly with Project Managers, Developers and Product Support Services teams. Investigated, monitored, and verified fixed bugs.\
 - **Map Tester:** Tested releases of [Encarta World Atlas](https://en.wikipedia.org/wiki/Encarta) and [MapPoint](https://en.wikipedia.org/wiki/Microsoft_MapPoint) for geopolitical and systematic bugs.
 
 ### Earlier Experiences
@@ -68,11 +66,11 @@ Seattle Legislative Aide | AutoCAD Technician and Drafter | Architecture Model M
 ## Education
 
 **Master of Landscape Architecture**, 
-[Cornell University](https://landscape.cals.cornell.edu/graduate/mla-3-year/), Ithaca NY </br>
-Landscape and Urban Design | Geographic Information Systems (GIS)</br>
+[Cornell University](https://landscape.cals.cornell.edu/graduate/mla-3-year/), Ithaca NY\
+Landscape and Urban Design | Geographic Information Systems (GIS)\
 Semester abroad: Scandinavian and European Landscape Architecture and Planning, Copenhagen, DK
 
-Bachelor of Arts (BA), Biology,
+**Bachelor of Arts, Biology**,
 [Kenyon College](https://www.kenyon.edu/), Gambier, OH
 
 ## Memberships and Volunteering
