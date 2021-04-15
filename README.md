@@ -4,7 +4,7 @@ _Technical Writer with 12+ years of experience_
 
 [Email](mailto:heyroberto@gmail.com) | [LinkedIn](https://linkedin.com/in/reynoldsrobert) 
 
-Administration Guides | Security Configuration Guides | Release Notes | Online Help\
+Administration Guides | Security Configuration Guides | Release Notes | Online Help
 Procedural Documentation | Security Advisories | Internal Style Guides
 
 _Innovative and versatile technical writer with extensive experience on web user interfaces. Recognized for ability to effectively write for diverse audiences. Keen eye for helping customers make informed decisions about software upgrades and performing workarounds. Proven strong organizational and tracking skills to help deliver crisp supporting documentation for the product._
@@ -16,11 +16,11 @@ _Innovative and versatile technical writer with extensive experience on web user
 - **General Audiences:** Establishes and analyses surveys and customer evaluations of online help sites (Example: How airlines can better accommodate deaf passengers.)
 
 ## Tools and Technologies
-- **Content Management:** GitHub | SDL Tridion Publication Manager | Salesforce Knowledge | Adobe Dreamweaver | DITA: XML, HTML
-- **Collaboration:** Confluence | Smartsheet | JIRA | Slack | Review Board | Bugzilla | SharePoint
+- **Content Management:** GitHub / SDL Tridion Publication Manager / Salesforce Knowledge / Adobe Dreamweaver / DITA: XML, HTML
+- **Collaboration:** Confluence / Smartsheet / JIRA / Slack / Review Board / Bugzilla / SharePoint
 - **Help Authoring Tools:** MadCap Flare and Analyzer
-- **XML Editors:** Oxygen | XMetaL
-- **Other:** Windows 10 | Office 365 | SnagIt | Adobe Acrobat Pro | Captivate | InDesign | Photoshop
+- **XML Editors:** Oxygen / XMetaL
+- **Other:** Windows 10 / Office 365 / SnagIt / Adobe Acrobat Pro / Captivate / InDesign / Photoshop
 
 ## Professional Experience
 **Senior Technical Content Developer**  @[Isilon Storage Division](https://www.delltechnologies.com/en-us/storage/isilon/onefs-operating-system.htm), Dell EMC _(June 2012 - September 2020)_<br>
@@ -44,9 +44,9 @@ Documentation writer identifying issues, symptoms, customer impact and solutions
 
 **Software Test Engineer / Map Tester** @[Microsoft Corporation](https://www.microsoft.com): 
 Developed and implemented test strategy for browser customizations and group policy deployments.  This included customer hotfixes and new browser version releases.
-  - **Software Tester:** Internet Explorer Setup, [Internet Explorer Administration Kit (IEAK)](https://en.wikipedia.org/wiki/Internet_Explorer_Administration_Kit), and Group Policy deployments.\
-  - **Trainer:** IDC team in Hyderabad, India on IEAK and Group Policy usage and testing methods.\
-  - **Communication:** Communicated QA concerns regularly with Project Managers, Developers and Product Support Services teams. Investigated, monitored, and verified fixed bugs.\
+  - **Software Tester:** Internet Explorer Setup, [Internet Explorer Administration Kit (IEAK)](https://en.wikipedia.org/wiki/Internet_Explorer_Administration_Kit), and Group Policy deployments.
+  - **Trainer:** IDC team in Hyderabad, India on IEAK and Group Policy usage and testing methods.
+  - **Communication:** Communicated QA concerns regularly with Project Managers, Developers and Product Support Services teams. Investigated, monitored, and verified fixed bugs.
 - **Map Tester:** Tested releases of [Encarta World Atlas](https://en.wikipedia.org/wiki/Encarta) and [MapPoint](https://en.wikipedia.org/wiki/Microsoft_MapPoint) for geopolitical and systematic bugs.
 
 ### Earlier Experiences
