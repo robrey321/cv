@@ -2,7 +2,7 @@
 
 _Technical Writer with 12+ years of experience_
 
-[Email](mailto:heyroberto@gmail.com) / [LinkedIn](https://linkedin.com/in/reynoldsrobert) / [Portfolio](https://github.com/robrey321/cv/blob/gh-pages/portfolio_descriptors.md)
+[Email](mailto:heyroberto@gmail.com) * [LinkedIn](https://linkedin.com/in/reynoldsrobert) * [Portfolio](https://github.com/robrey321/cv/blob/gh-pages/portfolio_descriptors.md)
 
 
 Administration Guides | Security Configuration Guides | Release Notes | Online Help
