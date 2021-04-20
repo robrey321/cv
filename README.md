@@ -5,8 +5,8 @@ _Technical Writer with 12+ years of experience_
 [Email](mailto:heyroberto@gmail.com)  |  [LinkedIn](https://linkedin.com/in/reynoldsrobert)  |  [Portfolio](https://github.com/robrey321/cv/blob/gh-pages/portfolio_descriptors.md)
 
 
-Administration Guides / Security Configuration Guides / Release Notes / Online Help\
-Procedural Documentation / Security Advisories / Internal Style Guides
+**Administration Guides / Security Configuration Guides / Release Notes / Online Help\
+Procedural Documentation / Security Advisories / Internal Style Guides**
 
 _Innovative and versatile technical writer with extensive experience on web user interfaces. Recognized for ability to effectively write for diverse audiences. Keen eye for helping customers make informed decisions about software upgrades and performing workarounds. Proven strong organizational and tracking skills to help deliver crisp supporting documentation for the product._
 
@@ -24,7 +24,7 @@ _Innovative and versatile technical writer with extensive experience on web user
 - **Other:** Windows 10 / Office 365 / SnagIt / Adobe Acrobat Pro / Captivate / InDesign / Photoshop
 
 ## Professional Experience
-**Senior Technical Content Developer**  @[Isilon Storage Division](https://www.delltechnologies.com/en-us/storage/isilon/onefs-operating-system.htm), Dell EMC _(June 2012 - September 2020)_<br>
+**Senior Technical Content Developer**  @ [Isilon Storage Division](https://www.delltechnologies.com/en-us/storage/isilon/onefs-operating-system.htm), Dell EMC _(June 2012 - September 2020)_<br>
 Documentation writer identifying issues, symptoms, customer impact and solutions for security vulnerabilities, customer hotfixes, and version releases. 
 - Authored security documentation: Security Advisories, Security Configuration Guides, False Positives
 - Wrote and edited Release Notes, Customer patch Readmes, Knowledge Base articles, Web Administration and CLI Administration Guides.
@@ -33,7 +33,7 @@ Documentation writer identifying issues, symptoms, customer impact and solutions
 - Onboarded and mentored new team members on standards and processes, tools and best practices.
 
 
-**Technical Writer** @[Edifecs, Inc.](https://www.edifecs.com/) _(March 2008 - May 2012)_
+**Technical Writer** @ [Edifecs, Inc.](https://www.edifecs.com/) _(March 2008 - May 2012)_
 - Documented online help for two major B2B Edifecs applications, using Web Help and PDF outputs.
 - Created release notes for those product releases. 
 - Wrote Installation and System Management guides for ITPros running Windows, Linux and Unix.
@@ -41,9 +41,9 @@ Documentation writer identifying issues, symptoms, customer impact and solutions
 - Conducted peer reviews of online help documentation for other products.
 
 ### Additional Relevant Experience
-**Content Writer / Editor** @[Sierra On-Line](https://en.wikipedia.org/wiki/Sierra_Entertainment): Redesigned a landscape and gardening website to promote a release of their LandDesigner product. 
+**Content Writer / Editor** @ [Sierra On-Line](https://en.wikipedia.org/wiki/Sierra_Entertainment): Redesigned a landscape and gardening website to promote a release of their LandDesigner product. 
 
-**Software Test Engineer / Map Tester** @[Microsoft Corporation](https://www.microsoft.com): 
+**Software Test Engineer / Map Tester** @ [Microsoft Corporation](https://www.microsoft.com): 
 Developed and implemented test strategy for browser customizations and group policy deployments.  This included customer hotfixes and new browser version releases.
   - **Software Tester:** Internet Explorer Setup, [Internet Explorer Administration Kit (IEAK)](https://en.wikipedia.org/wiki/Internet_Explorer_Administration_Kit), and Group Policy deployments.
   - **Trainer:** IDC team in Hyderabad, India on IEAK and Group Policy usage and testing methods.
