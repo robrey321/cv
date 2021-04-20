@@ -5,8 +5,8 @@ _Technical Writer with 12+ years of experience_
 [Email](mailto:heyroberto@gmail.com)  |  [LinkedIn](https://linkedin.com/in/reynoldsrobert)  |  [Portfolio](https://github.com/robrey321/cv/blob/gh-pages/portfolio_descriptors.md)
 
 
-Administration Guides | Security Configuration Guides | Release Notes | Online Help
-Procedural Documentation | Security Advisories | Internal Style Guides
+Administration Guides / Security Configuration Guides / Release Notes / Online Help\
+Procedural Documentation / Security Advisories / Internal Style Guides
 
 _Innovative and versatile technical writer with extensive experience on web user interfaces. Recognized for ability to effectively write for diverse audiences. Keen eye for helping customers make informed decisions about software upgrades and performing workarounds. Proven strong organizational and tracking skills to help deliver crisp supporting documentation for the product._
 
