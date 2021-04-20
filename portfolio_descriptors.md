@@ -1,5 +1,5 @@
 layout: page
-title: "portfolio_descriptors"
+title: "Portfolio Descriptors"
 permalink: /about/portfolio/
 
 ## [KB article: Patch Infrastructure Update](https://github.com/robrey321/cv/blob/gh-pages/REYNOLDS-KB-article-OneFS-patch-infrastructure-update.pdf)
