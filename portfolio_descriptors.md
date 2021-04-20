@@ -4,7 +4,7 @@
 **Date:** August 2020\
 **Company:** Dell EMC, Isilon Storage Division
 
-## [KB article: How to Use a PSK When Running SyncIQ](https://github.com/robrey321/cv/blob/gh-pages/REYNOLDS-procedure-How-to-use-a-PSK-when-using-SyncIQ.pdf?raw=true)
+## [KB article: How to Use a PSK When Running SyncIQ](https://github.com/robrey321/cv/blob/gh-pages/REYNOLDS-procedure-How-to-use-a-PSK-when-using-SyncIQ.pdf)
 **_Audience:_** Public, Isilon OneFS customers.\
 **_Business Goal:_** This is an example of a published procedure. The initial draft was written by a SME. The original background section was unnecessarily long, so I flattened it. I also applied structure, formatting and a consistent writing style to the procedure.\
 **_Date:_** April 2020\
