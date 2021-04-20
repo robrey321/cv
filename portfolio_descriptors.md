@@ -1,3 +1,9 @@
+---
+theme: jekyll-theme-midnight
+layout:page
+title: Portfolio descriptors
+permalink: /about/portfolio/
+---
 ## [KB article: Patch Infrastructure Update](https://github.com/robrey321/cv/blob/gh-pages/REYNOLDS-KB-article-OneFS-patch-infrastructure-update.pdf)
 **Audience:** Public, Isilon OneFS customers.\
 **Business Goal:** All released maintenance patches for Isilon OneFS required older patches be uninstalled prior to installing the latest. Clearly, this was a time consuming inconvenience. This KB was created to explain a fix to the patch infrastructure: customers no longer needed to uninstall older maintenance patches with this fix. The article provides a table with the installation paths and release dates for each supported version of Isilon OneFS.\
