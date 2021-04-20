@@ -4,6 +4,7 @@ _Technical Writer with 12+ years of experience_
 
 [Email](mailto:heyroberto@gmail.com) | [LinkedIn](https://linkedin.com/in/reynoldsrobert) 
 
+
 Administration Guides | Security Configuration Guides | Release Notes | Online Help
 Procedural Documentation | Security Advisories | Internal Style Guides
 
@@ -79,3 +80,5 @@ Semester abroad: Scandinavian and European Landscape Architecture and Planning, 
 - **Regular Contributor,** Sound.Views Newsletter, 6 years 
 - **Judge,** STC Chapter Competition, 2 years
 - **Writer and Editor:** Neighborhood House Volunteer Manual
+
+[Portfolio](https://github.com/robrey321/cv/blob/gh-pages/portfolio_descriptors.md) of recent writing samples
