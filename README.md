@@ -2,7 +2,7 @@
 
 _Technical Writer with 12+ years of experience_
 
-[Email](mailto:heyroberto@gmail.com)  |  [LinkedIn](https://linkedin.com/in/reynoldsrobert)  |  [Portfolio](https://github.com/robrey321/cv/blob/gh-pages/portfolio_descriptors.md)
+[Email](mailto:heyroberto@gmail.com)  |  [LinkedIn](https://linkedin.com/in/reynoldsrobert)  |  [Writing samples](https://github.com/robrey321/cv/blob/gh-pages/portfolio_descriptors.md)
 
 
 **Administration Guides / Security Configuration Guides / Release Notes / Online Help\
@@ -10,11 +10,11 @@ Procedural Documentation / Security Advisories / Internal Style Guides**
 
 _Innovative and versatile technical writer with extensive experience on web user interfaces. Recognized for ability to effectively write for diverse audiences. Keen eye for helping customers make informed decisions about software upgrades and performing workarounds. Proven strong organizational and tracking skills to help deliver crisp supporting documentation for the product._
 
-## Target Audiences
+<!--## Target Audiences
 - **End Users:** Distills complex technical information into easily digestible summaries for decision makers.
 - **IT Professionals:** Creates and maintains Knowledge Base articles, deployment guides, release notes, and patch Readmes.
 - **Cyber Security Champions:** Develops and maintains security advisories and security configuration guides.
-- **General Audiences:** Establishes and analyses surveys and customer evaluations of online help sites (Example: How airlines can better accommodate deaf passengers.)
+- **General Audiences:** Establishes and analyses surveys and customer evaluations of online help sites (Example: How airlines can better accommodate deaf passengers.)>
 
 ## Tools and Technologies
 - **Content Management:** GitHub / SDL Tridion Publication Manager / Salesforce Knowledge / Adobe Dreamweaver / DITA: XML, HTML
@@ -53,12 +53,11 @@ Developed and implemented test strategy for browser customizations and group pol
 ### Earlier Experiences
 Seattle Legislative Aide | AutoCAD Technician and Drafter | Architecture Model Maker
 
-### Select Accomplishment Highlights
-
+<!--### Select Accomplishment Highlights
 - Maintained recurring meetings with engineers and PMs to keep written deliverables accurate, complete and on track. 
 - Worked closely with security champions to create and publish advisories that communicate vulnerabilities without exposing customers to risk by attackers. Published over 50 security advisories. 
 - Proven customer advocate; strong passion for accuracy and clarity. 
-- Highly experienced with fast-paced work environments, making updates on the fly.
+- Highly experienced with fast-paced work environments, making updates on the fly.-->
 
 ## Certification
 
@@ -79,4 +78,4 @@ Semester abroad: Scandinavian and European Landscape Architecture and Planning, 
 - **Member,** Society for Technical Communication (STC), [Puget Sound Chapter](https://www.stc-psc.org/)
 - **Regular Contributor,** Sound.Views Newsletter, 6 years 
 - **Judge,** STC Chapter Competition, 2 years
-- **Writer and Editor:** Neighborhood House Volunteer Manual
+- **Writer and Editor,** Neighborhood House Volunteer Manual
