@@ -14,7 +14,7 @@ _Innovative and versatile technical writer with extensive experience on web user
 - **End Users:** Distills complex technical information into easily digestible summaries for decision makers.
 - **IT Professionals:** Creates and maintains Knowledge Base articles, deployment guides, release notes, and patch Readmes.
 - **Cyber Security Champions:** Develops and maintains security advisories and security configuration guides.
-- **General Audiences:** Establishes and analyses surveys and customer evaluations of online help sites (Example: How airlines can better accommodate deaf passengers.)>
+- **General Audiences:** Establishes and analyses surveys and customer evaluations of online help sites (Example: How airlines can better accommodate deaf passengers.)-->
 
 ## Tools and Technologies
 - **Content Management:** GitHub / SDL Tridion Publication Manager / Salesforce Knowledge / Adobe Dreamweaver / DITA: XML, HTML
