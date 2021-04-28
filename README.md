@@ -18,7 +18,7 @@ _Innovative and versatile technical writer with extensive experience on web user
 
 ## Tools and Technologies
 - **Content Management:** GitHub / SDL Tridion Publication Manager / Salesforce Knowledge / Adobe Dreamweaver / DITA: XML, HTML
-- **Collaboration:** Confluence / Smartsheet / JIRA / Slack / Review Board / Bugzilla / SharePoint
+- **Collaboration:** Confluence / Smartsheet / JIRA / Slack / Review Board / Bugzilla / SharePoint / Kanban / Trello
 - **Help Authoring Tools:** MadCap Flare and Analyzer
 - **XML Editors:** Oxygen / XMetaL
 - **Other:** Windows 10 / Office 365 / SnagIt / Adobe Acrobat Pro / Captivate / InDesign / Photoshop
