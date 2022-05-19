@@ -24,6 +24,8 @@ _Innovative and versatile technical writer with extensive experience on web user
 - **Other:** Windows 10 / Office 365 / SnagIt / Adobe Acrobat Pro / Captivate / InDesign / Photoshop
 
 ## Professional Experience
+**Technical Writing Staff** @ [Salesforce](https://www.salesforce.com/), _(June 2021 - Present)_<br>
+
 **Senior Technical Content Developer**  @ [Isilon Storage Division](https://www.delltechnologies.com/en-us/storage/isilon/onefs-operating-system.htm), Dell EMC _(June 2012 - September 2020)_<br>
 Documentation writer identifying issues, symptoms, customer impact and solutions for security vulnerabilities, customer hotfixes, and version releases. 
 - Authored security documentation: Security Advisories, Security Configuration Guides, False Positives
